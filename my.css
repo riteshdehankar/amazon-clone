@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+body{
+    background-color: rgb(243, 197, 137);
+    padding: 0;
+    margin: 0;
+}
+.nav-bar{
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+    
+}
